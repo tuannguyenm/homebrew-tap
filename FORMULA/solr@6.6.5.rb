@@ -2,7 +2,7 @@ class SolrAT665 < Formula
   desc "Enterprise search platform from the Apache Lucene project"
   homepage "https://lucene.apache.org/solr/"
   url "https://www.apache.org/dyn/closer.cgi?path=lucene/solr/6.6.5/solr-6.6.5.tgz"
-  sha256 "4fb85f12af045b28f6cb935b2f3739d59ec61ad1288ffe44c7ede64e614f28c4"
+  sha256 "fa65e922bc32d36ef65bee866095da563aa5ddd7e953798c06b6494572d51729"
 
   bottle :unneeded
 
